@@ -1,96 +1,59 @@
-# 👋 Hi, I'm Nur Auni Dhamirah Binti Euzin!
+# 👋 Hi, I'm Awny Dhamirah!
 
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Engineering+Student;Aspiring+Technology+Innovator;Exploring+IoT+%26+Embedded+Systems;Building+Ideas+Into+Reality](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=600\&lines=Engineering+Student;Aspiring+Technology+Innovator;Exploring+IoT+%26+Embedded+Systems;Building+Ideas+Into+Reality)" alt="Typing SVG" /> \</p>
+\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Network+%26+Security+Student;C%2B%2B+Programmer;Aspiring+Cybersecurity+Professional;Always+Learning+Something+New](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=600\&lines=Computer+Network+%26+Security+Student;C%2B%2B+Programmer;Aspiring+Cybersecurity+Professional;Always+Learning+Something+New)!" /> \</p>
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Focus-Innovation-blue?style=for-the-badge](https://img.shields.io/badge/Focus-Innovation-blue?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Field-Engineering-purple?style=for-the-badge](https://img.shields.io/badge/Field-Engineering-purple?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Interest-Technology-green?style=for-the-badge](https://img.shields.io/badge/Interest-Technology-green?style=for-the-badge)" /> \</p>
+\<p align="center">   \<img src="[https://img.shields.io/badge/Field-Computer%20Networking-blue?style=for-the-badge](https://img.shields.io/badge/Field-Computer%20Networking-blue?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Interest-Cybersecurity-purple?style=for-the-badge](https://img.shields.io/badge/Interest-Cybersecurity-purple?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)" /> \</p>
 
 ---
 
 ## 🚀 About Me
 
-Hello! I'm **[Your Name]**, an engineering student passionate about technology, innovation, and problem-solving.
+Hello! I'm **Awny Dhamirah**, a Computer Network and Security student passionate about technology, programming, and cybersecurity.
 
-- 🎓 Currently pursuing **[Your Degree / Course]** at **[Your University]**.
-- 💡 Interested in developing innovative solutions to real-world problems.
-- 🔬 Exploring engineering, electronics, IoT, and embedded systems.
-- 🌱 Constantly learning new technologies and improving my technical skills.
-- 🎯 My goal is to turn creative ideas into practical solutions that make a positive impact.
+- 🎓 Currently studying **Computer Network and Security**.
+- 💻 Able to program using **C++**.
+- 🔐 Interested in cybersecurity, network infrastructure, and information security.
+- 🌱 Currently expanding my knowledge of programming and computer networking.
+- 🎯 Aspiring to develop my technical skills and explore new technologies.
 
-I believe that every great innovation starts with curiosity and the willingness to learn.
+I believe that learning is a continuous process, and every new challenge is an opportunity to grow.
 
 ## 🛠️ Technical Skills
 
 **Programming Languages**
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" />
-\</p>
+\<p>   \<img src="[https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)" /> \</p>
 
-**Tools & Technologies**
+**Areas of Interest**
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-\</p>
+\<p>   \<img src="[https://img.shields.io/badge/Computer%20Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white](https://img.shields.io/badge/Computer%20Networking-0078D4?style=for-the-badge\&logo=cisco\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Cybersecurity-6A0DAD?style=for-the-badge&logo=protonvpn&logoColor=white](https://img.shields.io/badge/Cybersecurity-6A0DAD?style=for-the-badge\&logo=protonvpn\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Information%20Security-2E8B57?style=for-the-badge](https://img.shields.io/badge/Information%20Security-2E8B57?style=for-the-badge)" /> \</p>
 
-*Note: Update the badges to reflect your actual skills and experience.*
+## 📚 Currently Learning
 
-## 🔬 Research Interests
+- Computer Networking
+- Network Security
+- Cybersecurity Fundamentals
+- Programming with C++
+- Problem Solving and Logical Thinking
 
-- Internet of Things (IoT)
-- Embedded Systems
-- Renewable Energy
-- Electronics and Circuit Design
-- Sustainable Technology
-- Engineering Innovation
+## 💡 Projects
 
-## 💻 Featured Projects
+I'm currently building my technical foundation and working towards developing my first projects.
 
-### 1. [Project Name]
-
-📌 **Description:** [Briefly explain your project and the problem it solves.]
-
-🛠️ **Technologies:** [Programming languages, tools and hardware used.]
-
-🔗 **Repository:** [Insert project link]
-
-### 2. [Project Name]
-
-📌 **Description:** [Explain your second project.]
-
-🛠️ **Technologies:** [Technologies used.]
-
-🔗 **Repository:** [Insert project link]
-
-### 3. [Project Name]
-
-📌 **Description:** [Explain your third project.]
-
-🛠️ **Technologies:** [Technologies used.]
-
-🔗 **Repository:** [Insert project link]
+Stay tuned for future updates as I continue learning, experimenting, and turning my knowledge into practical applications!
 
 ## 📊 GitHub Statistics
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)" />
-\</p>
+\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=awny-dhamirah&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=awny-dhamirah\&show_icons=true\&theme=tokyonight\&hide_border=true)" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=awny-dhamirah&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=awny-dhamirah\&layout=compact\&theme=tokyonight\&hide_border=true)" /> \</p>
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)" />
-\</p>
+\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=awny-dhamirah&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=awny-dhamirah\&theme=tokyonight\&hide_border=true)" /> \</p>
 
-## 🌐 Let's Connect!
+## 🌐 Connect With Me
 
-\<p>   \<a href="[https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a>   \<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="mailto\:YOUR_EMAIL">     \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a> \</p>
+\<p>   \<a href="[https://github.com/awny-dhamirah](https://github.com/awny-dhamirah)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a> \</p>
 
 ---
 
-\<p align="center">   \<i>"Turning curiosity into creativity, and ideas into innovation."\</i> \</p>
+\<p align="center">   \<i>"Every expert was once a beginner."\</i> \</p>
 
-\<p align="center">   ⭐ Thanks for visiting my profile! Feel free to explore my repositories. \</p>
+\<p align="center">   ⭐ Thanks for visiting my profile! \</p>
